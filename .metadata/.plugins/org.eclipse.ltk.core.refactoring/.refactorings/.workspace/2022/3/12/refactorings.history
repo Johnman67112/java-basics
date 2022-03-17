@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;sintaxe-basica&apos; to &apos;basic-sintax&apos;&#x0D;&#x0A;- Original element: &apos;sintaxe-basica&apos;&#x0D;&#x0A;- Renamed element: &apos;sintaxe-basica&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;sintaxe-basica&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=sintaxe-basica" name="basic-sintax" references="true" stamp="1647523577074" version="1.0"/>
+</session>
