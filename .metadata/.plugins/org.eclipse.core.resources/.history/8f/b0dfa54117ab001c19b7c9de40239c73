@@ -1,0 +1,19 @@
+
+public class CharactersTest {
+	public static void main(String[] args) {
+		char letter = 'A';
+		System.out.println(letter);
+		
+		char value = 66;
+		System.out.println(value);
+		
+		value = (char) (value + 1);
+		System.out.println(value);
+		
+		String palavra = "welcome to the dark side";
+		System.out.println(palavra);
+		
+		palavra = palavra + 2020;
+		System.out.println(palavra);
+	}
+}

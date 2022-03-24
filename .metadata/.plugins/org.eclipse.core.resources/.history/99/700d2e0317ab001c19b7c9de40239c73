@@ -1,0 +1,13 @@
+
+public class CharactersTest {
+	public static void main(String[] args) {
+		char letter = 'a';
+		System.out.println(letter);
+		
+		char value = 66;
+		System.out.println(value);
+		
+		value = (char) (value + 1);
+		System.out.println(value);
+	}
+}
