@@ -1,0 +1,16 @@
+
+public class Challenge2 {
+	public static void main(String[] args) {
+		for(int n = 2; n <= 10; n++) {
+			int fatorial = n;
+			int aux = n;
+			
+			while(aux > 0) {
+				fatorial *= n - 1;
+				aux--;
+			}
+			
+			System.out.println(fatorial);
+		}
+	}
+}

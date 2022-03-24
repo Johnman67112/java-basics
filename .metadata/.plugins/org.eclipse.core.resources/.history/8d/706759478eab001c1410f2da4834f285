@@ -1,0 +1,8 @@
+
+public class LoopsTest {
+	public static void main(String[] args) {
+		for(int multiplier = 1; multiplier <= 10; multiplier++) {
+			
+		}
+	}
+}

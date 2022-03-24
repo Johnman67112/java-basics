@@ -1,0 +1,13 @@
+
+public class SumTest {
+	public static void main(String[] args) {
+		int counter = 0;
+		while(counter <= 10) {
+			int total = 0;
+			total += counter;
+			
+			System.out.println(total);
+			counter++;
+		}
+	}
+}

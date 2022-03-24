@@ -1,0 +1,12 @@
+
+public class LoopsTest2 {
+	public static void main(String[] args) {
+		for(int line = 1; line <= 10; line++) {
+			for(int counter = 0; counter <= 10; counter++) {
+				System.out.print(line * counter);
+				System.out.print(" ");
+			}
+			System.out.println();
+		}
+	}
+}
