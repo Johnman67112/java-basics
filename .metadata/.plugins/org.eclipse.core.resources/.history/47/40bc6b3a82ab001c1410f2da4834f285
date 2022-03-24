@@ -1,0 +1,36 @@
+
+public class SwitchTest {
+	public static void main(String[] args) {
+		int month = 10;
+		
+		switch(month) {
+		case 1:
+			System.out.println("Month is January");
+		case 2:
+			System.out.println("Month is January");
+		case 3:
+			System.out.println("Month is January");
+		case 4:
+			System.out.println("Month is January");
+		case 5:
+			System.out.println("Month is January");
+		case 6:
+			System.out.println("Month is January");
+		case 7:
+			System.out.println("Month is January");
+		case 8:
+			System.out.println("Month is January");
+		case 9:
+			System.out.println("Month is January");
+		case 10:
+			System.out.println("Month is January");
+		case 11:
+			System.out.println("Month is January");
+		case 12:
+			System.out.println("Month is January");
+		default:
+			System.out.println("Month is Invalid!");
+			break;
+		}
+	}
+}

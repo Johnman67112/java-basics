@@ -1,0 +1,17 @@
+
+public class TestRI {
+	public static void main(String[] args) {
+		double salary = 3300.0;
+		String ri;
+		int deduction;
+		
+		if (salary >= 1900.0 && salary <= 2800.0) {
+			ri = "7,5%";
+			deduction = 142;
+		}
+		else if (salary <= 3751.0) {
+			ri = "15%";
+			deduction = 
+		}
+	}
+}

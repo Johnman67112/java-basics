@@ -1,0 +1,15 @@
+
+public class ConditionalTest {
+	public static void main(String[] args) {
+		System.out.println("Testing Conditionals");
+		int age = 16;
+
+		if (age >= 18) {
+			System.out.println("you are older than 18");
+			System.out.println("welcome");
+		}
+		else {
+			System.out.println("unfortunately you cannot enter");
+		}
+	}
+}

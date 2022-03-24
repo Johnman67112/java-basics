@@ -1,0 +1,16 @@
+
+public class TestRI {
+	public static void main(String[] args) {
+		double salary = 3300.0;
+		String ri;
+		int value;
+		
+		if (salary < 1900.0) {
+			ri = "7,5%";
+			value = 142;
+		}
+		else {
+			
+		}
+	}
+}
