@@ -1,0 +1,9 @@
+
+public class ConversionTest {
+	public static void main(String[] args) {
+		//double salary = 1270.50;
+		//int value = salary;
+		
+		double value = 3;
+	}
+}

@@ -1,0 +1,16 @@
+
+public class FloatTest {
+	
+	public static void main(String[] args) {
+		double salary;
+		salary = 1250.70;
+		System.out.println("My salary is: " + salary);
+		
+		double age = 37;
+		
+		double division = 3.14 / 2;
+		System.out.println(division);
+		
+		
+	}
+}

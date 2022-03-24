@@ -1,0 +1,10 @@
+
+public class VarsTest {
+	
+	public static void main(String[] args) {
+		System.out.println("Hello new test");
+		
+		idade int;
+		age = 37;
+	}
+}
